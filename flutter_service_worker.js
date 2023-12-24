@@ -13,7 +13,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "bc6aa6a9b354ab66fa3267ebdfbae581
 "assets/assets/fonts/dastnevis.ttf": "8e104b45802914f2cec32c7c54265b70",
 "assets/assets/fonts/iran_nastaliq.ttf": "336dcf3a8e4fcf8928c4423ae4ff08ef",
 "assets/assets/fonts/wedding1.otf": "a905312054999db40ea9c69d0794c926",
-"assets/assets/music/music.mp3": "acfde26072db4f34e3f42660639a8ece",
+"assets/assets/music/music.mp3": "204820f2a37f547824de262f06f4659e",
 "assets/FontManifest.json": "8d31d9d5b596aafb7c45c8ad9540d989",
 "assets/fonts/MaterialIcons-Regular.otf": "62ec8220af1fb03e1c20cfa38781e17e",
 "assets/NOTICES": "165ee1389628ffb672e273f13e5776a5",
@@ -32,9 +32,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "bc6aa6a9b354ab66fa3267ebdfbae581
 "icons/Icon-512.png": "33582cc25dcada52893c95d4b38ac9de",
 "icons/Icon-maskable-192.png": "b316520cd826260cab30915896bac363",
 "icons/Icon-maskable-512.png": "33582cc25dcada52893c95d4b38ac9de",
-"index.html": "6333eaa480191fb3638cd0efc3a215b0",
-"/": "6333eaa480191fb3638cd0efc3a215b0",
-"main.dart.js": "f3e86feaa7645af6b319f8ba3ddf8d81",
+"index.html": "6b9c5c8447a8d6798024fc51e5e39e48",
+"/": "6b9c5c8447a8d6798024fc51e5e39e48",
+"main.dart.js": "e7dc96a82b60528d1a5c584a31d8c876",
 "manifest.json": "8acdf6330236cbdb29401dbb869eda1e",
 "version.json": "7e026da94b4ca9f9e364a958081d4ac2"};
 // The application shell files that are downloaded before a service worker can
