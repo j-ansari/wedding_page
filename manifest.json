@@ -1,11 +1,11 @@
 {
-    "name": "wedding",
-    "short_name": "wedding",
+    "name": "جشن عروسی",
+    "short_name": "جشن عروسی",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "راهیست راهِ عشق که هیچش کناره نیست   ...   آنجا جز آن که جان بسپارند، چاره نیست \n هر گه که دل به عشق دهی خوش دمی بود   ...   در کارِ خیر حاجتِ هیچ استخاره نیست",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
